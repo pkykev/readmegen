@@ -1,6 +1,6 @@
 
 
-# dwfhsdfgh
+# README.md Generator
 
 ## License
 
@@ -18,19 +18,19 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
   * [Questions](#questions)
   * [How to Contribute](#how-to-contribute)
 ## What my project aims to do
-sdfgdfghfdghfdgh
+This project is designed to streamline the process of creating a README for future projects so that a developer can spend more time on the project itself.
 
   ### Installation instructions
-  npm i
+  Using npm and inquirer, npm init -y THEN npm i inquirer@8.2.4
 
 ## What my project is used for
-Whatever I want
+Generate README.md for projects and repos
 
   ### Test instructions
 
   ### How to contribute
-  No contributions please
+  I will be working on this myself to further my coding skills, no contributions please.
 
   ### Questions
-  Please email me at n/a and checkout my github at <a href=https://github.com/n/a>https://github.com/n/a</a>
+  Please email me at fakemail@gmail.com and checkout my github at <a href=https://github.com/pkykev>https://github.com/pkykev</a>
 
